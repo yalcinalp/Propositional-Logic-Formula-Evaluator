@@ -1,7 +1,7 @@
 import os
 import sys
 
-if not os.path.isfile("the2.c"):
+if not os.path.isfile("Evaluator.c"):
 	sys.exit()
 
 os.system("gcc -Wall -ansi -pedantic-errors the2.c -o the2 -lm")
