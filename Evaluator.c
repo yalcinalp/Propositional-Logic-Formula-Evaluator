@@ -255,8 +255,6 @@ for(i=0;i<number;i++){
 
 
 
-
-/* AGA BIZIM ARTIK tekrarli_char_arr ARTIK tekraRSIZ_char_arr */
    
    n = number;
    
